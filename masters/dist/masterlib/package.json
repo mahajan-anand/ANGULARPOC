@@ -1,0 +1,21 @@
+{
+  "name": "masterlib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.1.3",
+    "@angular/core": "^8.1.3"
+  },
+  "main": "bundles/masterlib.umd.js",
+  "module": "fesm5/masterlib.js",
+  "es2015": "fesm2015/masterlib.js",
+  "esm5": "esm5/masterlib.js",
+  "esm2015": "esm2015/masterlib.js",
+  "fesm5": "fesm5/masterlib.js",
+  "fesm2015": "fesm2015/masterlib.js",
+  "typings": "masterlib.d.ts",
+  "metadata": "masterlib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
